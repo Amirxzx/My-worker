@@ -1,4 +1,4 @@
-const PSK = "A1m3i6r8z9a0A8n9d8M7a5m4a3d";
+const PSK = "A1m3i6r8z9a0A8n9d8M7a5m4a3d"; 
 
 const STRIP_HEADERS = new Set(["host","connection","content-length","transfer-encoding","proxy-connection","proxy-authorization","x-forwarded-for","x-forwarded-host","x-forwarded-proto","x-forwarded-port","x-real-ip","forwarded","via","x-mhr-hop","accept-encoding"]);
 
